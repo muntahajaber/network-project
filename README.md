@@ -1,2 +1,4 @@
 # network-project
-this project is about how Clint and server communicate with each other 
+
+### Description 
+This project is to simulate Client-server communication  using socket
